@@ -1,4 +1,4 @@
-name = "hello2024-backend"
+name = "hello2025-backend"
 main = "src/index.js"
 compatibility_date = "2024-02-08"
 
@@ -6,7 +6,7 @@ compatibility_date = "2024-02-08"
 # Docs: https://developers.cloudflare.com/workers/runtime-apis/kv
 [[kv_namespaces]]
 binding = "KV"
-id = "7f00eb52a7a44db786aa43c56bb693f1"
+id = "b143d5c525be49529dba8d73b6ba883d"
 
 [dev]
 ip = "0.0.0.0"

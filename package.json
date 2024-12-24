@@ -1,5 +1,5 @@
 {
-  "name": "hello2024-backend",
+  "name": "hello2025-backend",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -12,6 +12,6 @@
     "wrangler": "^3.0.0"
   },
   "dependencies": {
-    "hono": "^4.0.8"
+    "hono": "^4.6.14"
   }
 }
