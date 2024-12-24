@@ -1,5 +1,5 @@
-# hello2024-backend
-新入生情報Web2024バックエンド
+# hello2025-backend
+新入生情報Web2025バックエンド
 
 ## 環境構築
 
