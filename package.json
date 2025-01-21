@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "eslint": "^8.57.0",
-    "wrangler": "^3.0.0"
+    "wrangler": "^3.103.0"
   },
   "dependencies": {
     "hono": "^4.6.14"
